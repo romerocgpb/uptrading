@@ -1,0 +1,1 @@
+como criar um script, usando a biblioteca do nodejs "technicalindicators", para comprar o candle atual for bullish e vender quando for bearish?
